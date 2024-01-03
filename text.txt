@@ -1,1 +1,0 @@
-MONOGO_URL = mongodb+srv://shubhamsingh:shubham2338@cluster0.uywrnsg.mongodb.net/graphql?retryWrites=true&w=majority
